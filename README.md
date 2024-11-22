@@ -1,5 +1,8 @@
 # 09_sql-challenge
 
+[Data Engineering- Schema.sql Completed Assignmnet](.employee_sql/QuickDBD-schema.sql)
+[Data Analysis- Data Analysis.sql Completed Assignment](.employee_sql/data_analysis.sql)
+
 ## Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
@@ -13,7 +16,6 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 # Data Engineering
-[Schema SQL Here](.employee_sql/QuickDBD-schema.sql)
 - All required columns are defined for each table
 - Columns are set to the correct data type
 - Primary Keys set for each table
@@ -23,7 +25,6 @@ For this project, you’ll design the tables to hold the data from the CSV files
 - Accurately defines value length for columns
 
 # Data Analysis 
-[Data Analysis Here](.employee_sql/data_analysis.sql)
 - List the employee number, last name, first name, sex, and salary of each employee
 - List the first name, last name, and hire date for the employees who were hired in 1986
 - List the manager of each department along with their department number, department name, employee number, last name, and first name
@@ -37,4 +38,4 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 Overall Approach
 
-- Referenced activity assignments throughout the challenge, Xpert Learning Assistant for help with the ERD diagram and random syntax errors i was getting due to forgetting the semicolon or missing an underscore in the column headings, and sql reference cheat sheet. 
+- Referenced activity assignments throughout the challenge, Xpert Learning Assistant for help with the ERD diagram and random syntax errors i was getting due to forgetting the semicolon or missing an underscore in the column headings, and sql reference cheat sheets I've used in the past at work. 

@@ -13,7 +13,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 # Data Engineering
-[ERD Diagram](.employee_sql/QuickDBD-schema.sql)
+[Schema SQL](.employee_sql/QuickDBD-schema.sql)
 - All required columns are defined for each table
 - Columns are set to the correct data type
 - Primary Keys set for each table
@@ -22,7 +22,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 - Correctly uses NOT NULL condition on necessary columns
 - Accurately defines value length for columns
 
-# Data Analysis ([employee_sql/data_analysis.sql](https://github.com/wrighang/09_sql-challenge/blob/e3edf3c609f0f37026f2d839ff6f61ade2b0c027/employee_sql/data_analysis.sql)
+# Data Analysis 
+[Data Analysis](.employee_sql/data_analysis.sql)
 - List the employee number, last name, first name, sex, and salary of each employee
 - List the first name, last name, and hire date for the employees who were hired in 1986
 - List the manager of each department along with their department number, department name, employee number, last name, and first name
@@ -31,3 +32,9 @@ For this project, you’ll design the tables to hold the data from the CSV files
 - List each employee in the Sales department, including their employee number, last name, and first name
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
 - List the frequency counts, in descending order, of all the employee last names
+
+##CODING_PROCESS
+
+Overall Approach
+
+- Referenced activity assignments throughout the challenge as well as used Xpert Learning Assistant for help with the ERD diagram and random syntax errors i was getting due to forgetting the semicolon or missing an underscore in the column headings

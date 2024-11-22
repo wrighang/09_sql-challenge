@@ -9,6 +9,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 # Data Modeling
 - Entity Relationship Diagram is included or table schemas provided for all tables
+- ![image](https://github.com/user-attachments/assets/53c38c5a-9f99-4cc3-8375-350e50b77cb7)
+
 
 # Data Engineering
 - All required columns are defined for each table

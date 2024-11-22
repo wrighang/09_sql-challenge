@@ -35,7 +35,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
 - List the frequency counts, in descending order, of all the employee last names
 
-##CODING_PROCESS
+## CODING_PROCESS
 
 Overall Approach
 

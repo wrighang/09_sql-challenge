@@ -13,7 +13,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 # Data Engineering
-https://github.com/wrighang/09_sql-challenge/blob/e3edf3c609f0f37026f2d839ff6f61ade2b0c027/employee_sql/QuickDBD-schema.sql
+[ERD Diagram](.employee_sql/QuickDBD-schema.sql)
 - All required columns are defined for each table
 - Columns are set to the correct data type
 - Primary Keys set for each table

@@ -37,4 +37,4 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 Overall Approach
 
-- Referenced activity assignments throughout the challenge as well as used Xpert Learning Assistant for help with the ERD diagram and random syntax errors i was getting due to forgetting the semicolon or missing an underscore in the column headings
+- Referenced activity assignments throughout the challenge, Xpert Learning Assistant for help with the ERD diagram and random syntax errors i was getting due to forgetting the semicolon or missing an underscore in the column headings, and sql reference cheat sheet. 

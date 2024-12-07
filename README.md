@@ -2,7 +2,7 @@
 
 Data Engineering: [Schema.sql Completed Assignmnet](https://github.com/wrighang/09_sql-challenge/blob/main/employee_sql/QuickDBD-schema.sql)
 
-Data Analysis: [Data Analysis.sql Completed Assignment](.employee_sql/data_analysis.sql)
+Data Analysis: [Data Analysis.sql Completed Assignment](https://github.com/wrighang/09_sql-challenge/blob/main/employee_sql/data_analysis.sql)
 
 ## Background
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
